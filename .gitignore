@@ -1,0 +1,20 @@
+
+*.swp
+tags
+*.zip
+
+.DS_Store
+node_modules/
+.cache-loader
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+# Editor directories and files
+
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
