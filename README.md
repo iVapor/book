@@ -1,2 +1,2 @@
 # book
-I add all book code here. So I can learn code across devices
+I collect all books' sample code here. So I can learn coding across devices. Hope it helps you too.
