@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67add264-03bb-453d-b330-f5fb60839457" name="Default Changelist" comment="">
+    <list default="true" id="67add264-03bb-453d-b330-f5fb60839457" name="Default Changelist" comment="update .idea">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylin'WithCSS/chap6_code_files/figure6.18.html" beforeDir="false" afterPath="$PROJECT_DIR$/stylin'WithCSS/chap6_code_files/figure6.18.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,64 +17,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProfessionalJavaScriptForWebDevelopers/Ch22/DragAndDropExample04.htm">
+        <entry file="file://$PROJECT_DIR$/stylin'WithCSS/chap6_code_files/figure6.16.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1241">
-              <caret line="73" column="24" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProfessionalJavaScriptForWebDevelopers/Ch23/OnlineEventsExample01.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProfessionalJavaScriptForWebDevelopers/Ch23/CookiesExample01.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProfessionalJavaScriptForWebDevelopers/Ch23/CookieUtil.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="31" column="47" lean-forward="true" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
+            <state relative-caret-position="247">
+              <caret line="8" column="88" lean-forward="true" selection-start-line="8" selection-end-line="8" selection-end-column="88" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+        <entry file="file://$PROJECT_DIR$/stylin'WithCSS/chap6_code_files/figure6.18.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProfessionalJavaScriptForWebDevelopers/Ch23/StorageEventExample01.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="48" column="43" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProfessionalJavaScriptForWebDevelopers/Ch23/IndexedDBExample01.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+            <state relative-caret-position="123">
+              <caret line="24" column="74" lean-forward="true" selection-start-line="24" selection-end-line="24" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -84,6 +40,7 @@
     <findStrings>
       <find>ajax</find>
       <find>streaming.php</find>
+      <find>googleapis</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -107,14 +64,15 @@
         <option value="$PROJECT_DIR$/ProfessionalJavaScriptForWebDevelopers/Ch13/OrientationChangeEventExample01.htm" />
         <option value="$PROJECT_DIR$/ProfessionalJavaScriptForWebDevelopers/Ch22/FunctionCurryingExample01.htm" />
         <option value="$PROJECT_DIR$/ProfessionalJavaScriptForWebDevelopers/Ch22/DragAndDropExample03.htm" />
+        <option value="$PROJECT_DIR$/stylin'WithCSS/chap6_code_files/figure6.18.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-12" />
-    <option name="y" value="-12" />
-    <option name="width" value="2160" />
-    <option name="height" value="1635" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="447" />
+    <option name="y" value="94" />
+    <option name="width" value="1482" />
+    <option name="height" value="1004" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -131,13 +89,13 @@
             <path>
               <item name="book" type="b2602c69:ProjectViewProjectNode" />
               <item name="book" type="462c0819:PsiDirectoryNode" />
-              <item name="ProfessionalJavaScriptForWebDevelopers" type="462c0819:PsiDirectoryNode" />
+              <item name="stylin'WithCSS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="book" type="b2602c69:ProjectViewProjectNode" />
               <item name="book" type="462c0819:PsiDirectoryNode" />
-              <item name="ProfessionalJavaScriptForWebDevelopers" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch23" type="462c0819:PsiDirectoryNode" />
+              <item name="stylin'WithCSS" type="462c0819:PsiDirectoryNode" />
+              <item name="chap6_code_files" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -150,6 +108,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../flyGame" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -188,7 +152,9 @@
       <workItem from="1555482450506" duration="54000" />
       <workItem from="1556237929706" duration="6313000" />
       <workItem from="1556455664386" duration="5843000" />
-      <workItem from="1558254045537" duration="621000" />
+      <workItem from="1558254045537" duration="763000" />
+      <workItem from="1562251559313" duration="1845000" />
+      <workItem from="1562339715066" duration="7891000" />
     </task>
     <task id="LOCAL-00001" summary="add book stylin' With CSS">
       <created>1549965722622</created>
@@ -232,11 +198,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556455204410</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update .idea">
+      <created>1558445460222</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1558445460223</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40295000" />
+    <option name="totallyTimeSpent" value="50173000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -248,10 +221,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <frame x="298" y="63" width="988" height="669" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26449564" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49906892" visible="true" weight="0.23319328" />
+      <window_info id="Structure" order="1" sideWeight="0.5009311" side_tool="true" weight="0.26260504" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -261,9 +235,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.3283582" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49891776" weight="0.3283582" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50108224" side_tool="true" weight="0.32885906" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32774675" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49891776" weight="0.3272727" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50108224" side_tool="true" weight="0.32752612" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -323,40 +297,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="update .idea" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ProfessionalJavaScriptForWebDevelopers/Ch03/AddExample01.htm">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProfessionalJavaScriptForWebDevelopers/Ch03/AddExample02.htm">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProfessionalJavaScriptForWebDevelopers/Ch03/AddExample03.htm">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProfessionalJavaScriptForWebDevelopers/Ch03/NullExample01.htm">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProfessionalJavaScriptForWebDevelopers/Ch03/NullExample02.htm">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProfessionalJavaScriptForWebDevelopers/Ch03/DivideExample01.htm">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProfessionalJavaScriptForWebDevelopers/Ch03/NumberExample01.htm">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProfessionalJavaScriptForWebDevelopers/Ch03/NumberExample02.htm">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProfessionalJavaScriptForWebDevelopers/Ch03/NumberExample03.htm">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProfessionalJavaScriptForWebDevelopers/Ch03/NumberExample04.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProfessionalJavaScriptForWebDevelopers/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -612,52 +552,122 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ProfessionalJavaScriptForWebDevelopers/Ch22/DragAndDropExample04.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1241">
+        <state relative-caret-position="1387">
           <caret line="73" column="24" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProfessionalJavaScriptForWebDevelopers/Ch23/OnlineEventsExample01.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
+        <state relative-caret-position="323">
           <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProfessionalJavaScriptForWebDevelopers/Ch23/CookiesExample01.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
+        <state relative-caret-position="399">
           <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylin'WithCSS/chap5_code_files/figure5.14.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProfessionalJavaScriptForWebDevelopers/Ch23/CookieUtil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProfessionalJavaScriptForWebDevelopers/Ch23/StorageEventExample01.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
+        <state relative-caret-position="912">
           <caret line="48" column="43" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProfessionalJavaScriptForWebDevelopers/Ch23/IndexedDBExample01.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="247">
           <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProfessionalJavaScriptForWebDevelopers/Ch23/CookieUtil.js">
+    <entry file="file://$PROJECT_DIR$/stylin'WithCSS/chap6_code_files/figures6.1-6.3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="31" column="47" lean-forward="true" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
+        <state relative-caret-position="133">
+          <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+    <entry file="file://$PROJECT_DIR$/stylin'WithCSS/chap6_code_files/figure6.7.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        <state relative-caret-position="266">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylin'WithCSS/chap6_code_files/figure6.8.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylin'WithCSS/chap6_code_files/figure6.11.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="66" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylin'WithCSS/chap6_code_files/figure6.12.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylin'WithCSS/chap6_code_files/figure6.13.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylin'WithCSS/chap6_code_files/figure6.15.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylin'WithCSS/chap6_code_files/figure6.16.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="8" column="88" lean-forward="true" selection-start-line="8" selection-end-line="8" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylin'WithCSS/chap6_code_files/figure6.18.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="24" column="74" lean-forward="true" selection-start-line="24" selection-end-line="24" selection-end-column="74" />
         </state>
       </provider>
     </entry>
