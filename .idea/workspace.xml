@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="67add264-03bb-453d-b330-f5fb60839457" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +79,7 @@
       <workItem from="1562855908942" duration="3953000" />
       <workItem from="1563924284384" duration="2713000" />
       <workItem from="1577860776348" duration="731000" />
-      <workItem from="1577867734615" duration="2996000" />
+      <workItem from="1577867734615" duration="9534000" />
     </task>
     <task id="LOCAL-00001" summary="add book stylin' With CSS">
       <created>1549965722622</created>
