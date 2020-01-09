@@ -8,3 +8,8 @@ I collect all books' sample code here. So I can learn coding across devices. Hop
   slow. Multiple sources maybe can help this.
    
  
+2. ProfessionalJavaScriptForWebDevelopers means that *Professional Javascript
+ for Web Developers 3rd*.
+
+3. *Stylin’ with CSS: A Designer’s Guide Third Edition* is at directory
+ *stylin'WithCSS*.
